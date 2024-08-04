@@ -1,4 +1,4 @@
-Eagle Footprint and Symbol Library for the MiniSTM32F4x1 (Black Pill) development board created by WeAct Studio.
+**UNOFFICIAL** Eagle Footprint and Symbol Library for the MiniSTM32F4x1 (Black Pill) development board created by WeAct Studio.
 
 Feel free to create an issue ticket if you notice any issues. This library remains untested for now. Use at your own risk.
 
